@@ -13,4 +13,4 @@ __ml-100k__ : [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/
 
 __Item-based Collaborative Filtering.ipynb__ : The Jupyter Notebook file that contains my code.
 
-[To view code on nbviewer, click here.](https://nbviewer.jupyter.org/github/mirna-salem/Item-based-Collaborative-Filtering/blob/master/Item-based%20Collaborative%20Filtering.ipynb)
+[To view project on nbviewer, click here.](https://nbviewer.jupyter.org/github/mirna-salem/Item-based-Collaborative-Filtering/blob/master/Item-based%20Collaborative%20Filtering.ipynb)
