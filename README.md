@@ -9,8 +9,8 @@ This model was built using the MovieLens dataset to predict the ratings of a use
 * User preferences may change whereas an item will always be an item. As a result, you don't have to update the similarity matrix as often.
 * Better for new users since there isn't much information about them.
 
-ml-100k : [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/) that contains several training and testing datasets. I use u1.base and u1.test which are already split into 80% training and 20% testing.
+__ml-100k__ : [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/) that contains several training and testing datasets. I use u1.base and u1.test which are already split into 80% training and 20% testing.
 
-Item-based Collaborative Filtering.ipynb : The Jupyter Notebook file that contains my code.
+__Item-based Collaborative Filtering.ipynb__ : The Jupyter Notebook file that contains my code.
 
 [To view code on nbviewer, click here.](https://nbviewer.jupyter.org/github/mirna-salem/Item-based-Collaborative-Filtering/blob/master/Item-based%20Collaborative%20Filtering.ipynb)
